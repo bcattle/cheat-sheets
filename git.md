@@ -7,6 +7,7 @@ git cheat sheet
 `git push origin : old_branch_name`     delete a remote branch 
 
 `git add -p`                  manually select chunks to stage 
+
 `git reset --hard HEAD~3`     
 `git reset --hard b1daad`     
 
