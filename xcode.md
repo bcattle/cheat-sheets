@@ -25,3 +25,5 @@ XCode shortcuts
 
 - `cmd-Y`         toggle all breakpoints
 - `cmd-\`         add/remove breakpoint
+
+- `crtl-cmd-alt-G`	     re-run last test
